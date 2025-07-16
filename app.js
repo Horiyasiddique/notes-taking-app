@@ -44,3 +44,6 @@ const addNote = () => {
     notes.value = "";
   });
 };
+
+
+addNote()
